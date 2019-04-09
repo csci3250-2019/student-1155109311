@@ -29,3 +29,6 @@ China | USA
 ------------ | -------------
 good | good
 Xi | Trump
+
+![Image of Yaktocat](https://github.com/csci3250-2019/student-1155109311/blob/master/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202019-04-09%20%E4%B8%8B%E5%8D%882.09.32.png)
+![Image of Yaktocat](https://github.com/csci3250-2019/student-1155109311/blob/master/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202019-04-09%20%E4%B8%8B%E5%8D%882.13.36.png)
